@@ -1,0 +1,105 @@
+.dashboard{
+    width: 50px;
+    fill: white;
+    margin-right: 15px;
+    
+  }
+
+  .home{
+    width: 30px;
+    fill: white;
+    margin-right: 25px;
+    padding-left:10px ;
+  }
+
+  .profile{
+    width: 30px;
+    fill: white;
+    margin-right: 25px;
+    padding-left:10px ;
+  }
+
+  .messages{
+    width: 30px;
+    fill: white;
+    margin-right: 25px;
+    padding-left:10px ;
+  }
+
+.history{
+  width: 30px;
+  fill: white;
+  margin-right: 25px;
+  padding-left:10px ;
+}
+
+.task{
+  width: 30px;
+  fill: white;
+  margin-right: 25px;
+  padding-left:10px ;
+}
+
+.community{
+  width: 30px;
+  fill: white;
+  margin-right: 25px;
+  padding-left:10px ;
+}
+
+.settings{
+  width: 30px;
+  fill: white;
+  margin-right: 25px;
+  padding-left:10px ;
+}
+
+.support{
+  width: 30px;
+  fill: white;
+  margin-right: 25px;
+  padding-left:10px ;
+}
+
+.privacy{
+  width: 30px;
+  fill: white;
+  margin-right: 25px;
+  padding-left:10px ;
+}
+
+.magnify{
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+  
+}
+
+.bell{
+  width: 30px;
+}
+
+.bat{
+  width: 55px;
+  height: 55px;
+  border-radius:80% ;
+}
+
+.bat2{
+  width: 75px;
+  height: 75px;
+  border-radius: 80%;
+}
+
+.user-img{
+  width: 40px;
+  height: 40px;
+  border: 1px black solid;
+  border-radius: 50%;
+}
+
+.eye,.star,.share{
+  width: 25px;
+  margin: 20px;
+  fill: rgb(77, 77, 77);
+}
